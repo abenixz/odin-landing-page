@@ -3,7 +3,7 @@
 ## Description
 "OFF-COURSE" is a landing page projects for The Odin Project. The website features a theme inspired by the late American fashion designer and entrepreneur Virgil Abloh. I made "OFF-COURSE" as a tribute for the work Virgil put in to fashion and the community.
 
-Images are included in the  ``` /img``` directory and credit to the images owners is listed in under the credits section.
+Images are included in the  ```/img``` directory and credit to the images owners is listed in under the credits section.
 
 ## Credit
 
