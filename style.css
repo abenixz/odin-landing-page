@@ -7,17 +7,20 @@
 body {
     min-height: 100vh;
 }
-html{
-    
+html, body{
     width: 100%;
     height: 100%;
-    overflow-x: hidden; 
+    overflow-x: hidden;
+}
+.full-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
 }
 .nav_and_hero {
     max-width: 1200px;
     align-self: center;
 }
-
 .nav-section {
     display: flex;
     justify-content: space-between;
